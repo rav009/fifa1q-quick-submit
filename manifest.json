@@ -1,0 +1,15 @@
+
+{  
+  "name": "fifa1q submit",  
+  "version": "0.1.0",  
+  "description": "Quickly submit your port and password to view the server list.",  
+  "browser_action": {  
+    "default_icon": "icon.png" ,
+    "default_title": "fifa1q submit",
+    "default_popup": "submit.html"
+  },
+  "manifest_version": 2,
+  "background": {
+    "scripts": ["index.js"]
+  }
+} 
