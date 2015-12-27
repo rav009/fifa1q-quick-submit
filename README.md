@@ -14,7 +14,7 @@ This is a chrome extension which can remember your fifa1q port and password and 
 <br />
 - 下载项目的zip包
 - 解压到任意目录
-- 打开chrome的菜地（点击有三个横条的按钮）依次找到“更多工具”、“扩展程序”
-- 确保“开发者模式”的单选框勾上了
+- 打开chrome的菜单（点击有三个横条的按钮）依次点击“更多工具”、“扩展程序”
+- 确保弹出的页面右上角的单选框“开发者模式”勾上了
 - 点击“加载已解压的扩展程序”
 - 在弹出的对话框中选中刚才解压的目录
